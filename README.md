@@ -1,6 +1,12 @@
-# Meteor Addon Template
+# Kamast Public Meteor Addon
 
-A template to allow easy usage of the Meteor Addon API.
+This is the public version of kamast with the fully working and tested modules
+
+### Supported API Hooks
+# Coming Soon
+
+### Features
+# Coming Soon
 
 ### How to use
 
